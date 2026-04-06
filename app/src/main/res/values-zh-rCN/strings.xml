@@ -449,6 +449,7 @@
     <string name="inst_unknown_src">安装未知来源应用</string>
     <string name="apps_ctrl">控制应用</string>
     <string name="config_default_apps">修改默认App</string>
+    <string name="disable_app_verification">禁用应用验证</string>
 
     <string name="config_brightness">调整亮度</string>
     <string name="config_scr_timeout">修改屏幕超时</string>

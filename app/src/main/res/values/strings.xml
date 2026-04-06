@@ -484,6 +484,7 @@
     <string name="inst_unknown_src">Install unknown sources</string>
     <string name="apps_ctrl">Apps control</string>
     <string name="config_default_apps">Configure default apps</string>
+    <string name="disable_app_verification">Disable app verification</string>
 
     <string name="config_brightness">Configure brightness</string>
     <string name="config_scr_timeout">Configure screen timeout</string>
